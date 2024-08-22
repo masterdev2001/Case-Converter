@@ -10,3 +10,15 @@ body {
 * {
   box-sizing: border-box;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button-group {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
