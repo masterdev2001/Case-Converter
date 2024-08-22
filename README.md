@@ -1,8 +1,17 @@
 # Case-Converter
 
 Build a simple case converter web app.
+![image](./images/image.png)
 
 ## Tasks
+
+- Upper Case
+- Lower Case
+- Sentence Case
+- Title Case
+- Alternating Case
+- Inverse Case
+- Copy / Download / Reset
 
 ## Environment
 
